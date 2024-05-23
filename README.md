@@ -28,7 +28,7 @@ To run this program, you need to have Python installed on your system. You can d
 3. Run the script using Python.
 
 ```sh
-python quantum_measurement.py
+python3 qms.py
 ```
 ### Functions
 The program includes the following functions:
